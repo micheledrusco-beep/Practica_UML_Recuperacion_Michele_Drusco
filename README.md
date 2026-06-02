@@ -67,8 +67,13 @@ En el repositorio están los archivos de la práctica:
 
 - diagrama_clinica_veterinaria.puml
 - Diagrama_UML_Clinica_Veterinaria.png
+- Foto_Diagrama_UML_Mano.jpg
 - Practica_UML_Clinica_Veterinaria.docx
 - README.md
+
+## Imagen del diagrama UML hecho a mano
+
+![Diagrama UML hecho a mano](Foto_Diagrama_UML_Mano.jpg)
 
 ## Imagen del diagrama
 
