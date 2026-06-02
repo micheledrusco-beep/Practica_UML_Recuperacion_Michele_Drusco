@@ -70,6 +70,10 @@ En el repositorio están los archivos de la práctica:
 - Practica_UML_Clinica_Veterinaria.docx
 - README.md
 
+## Imagen del diagrama
+
+![Diagrama UML](Diagrama_UML_Clinica_Veterinaria.png)
+
 ## Alumno
 
 Michele Massimo Drusco Díaz
